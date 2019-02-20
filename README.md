@@ -17,5 +17,4 @@ que se obtiene una reducción en el tiempo de procesamiento, así como una mejor
 índice de acierto.
 
 
-Como se entrena la red neuronal:
-<iframe width="640" height="360" src="https://www.youtube.com/embed/S31uvPAEpDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
