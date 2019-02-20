@@ -15,3 +15,7 @@ evaluación del método de clasificación alcanza hasta un 96 por ciento de vero
 CNN fue entrenada aplicando técnicas de extracción de características de alto nivel con lo
 que se obtiene una reducción en el tiempo de procesamiento, así como una mejora en el
 índice de acierto.
+
+
+Como se entrena la red neuronal:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S31uvPAEpDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
