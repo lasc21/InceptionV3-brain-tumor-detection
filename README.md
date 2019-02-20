@@ -17,4 +17,4 @@ que se obtiene una reducción en el tiempo de procesamiento, así como una mejor
 índice de acierto.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video de como implementar una CNN Inception v3](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=S31uvPAEpDg)
